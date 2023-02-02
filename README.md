@@ -1,5 +1,7 @@
 # Bookstore Database
 
+![Bookstore](https://github.com/Koco90/Bookstore_database/blob/main/pexels-pixabay-256431.jpg)
+
 ### Project Description
 This is a program that can be used by a bookstore clerk. 
 It is essentially a book database in which you can add, update, delete, view all or search for books.
