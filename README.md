@@ -17,7 +17,7 @@ Some entries of books are already included. This can be altered easily by changi
 
 ### Who could use this project?
 A bookstore clerk could use this code.
-Some who is looking to build a similar database could use this as a foundation.
+Someone who is looking to build a similar database could use this as a foundation.
 
 ### What is the goal of this project?
 To easily manage a bookstore database.
